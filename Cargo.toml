@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-landlock-lsm"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS landlock-lsm component - security"
+
+[lib]
+name = "landlock_lsm"
+path = "src/lib.rs"
