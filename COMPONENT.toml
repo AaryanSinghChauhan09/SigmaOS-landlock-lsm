@@ -3,7 +3,7 @@ name = "SigmaOS-landlock-lsm"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "landlock-lsm component"
+description = "Landlock LSM"
 upstream = []
 
 [contract]
